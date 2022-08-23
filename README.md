@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Ok whatever
-
-Ok whatever x2
+1.Index.html
